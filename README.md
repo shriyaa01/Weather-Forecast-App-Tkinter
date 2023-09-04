@@ -1,6 +1,6 @@
 # Weather-Forecast-App-Tkinter
 
-![Weather App Screenshot](img1.png)
+![Weather App Screenshot](img2.png)
 
 ## Overview
 
@@ -59,7 +59,7 @@ To use this Weather Forecast App locally, follow these steps:
 
 ## Screenshots
 
-![Weather App Screenshot](img2.png)
+![Weather App Screenshot](img1.png)
 
 ## Contributing
 
